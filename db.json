@@ -349,34 +349,6 @@
       "phone": "+992 94 678 9012",
       "address": "ул. Бартанг, 8, Душанбе, Таджикистан",
       "id": "25"
-    },
-    {
-      "id": "1aca",
-      "firstName": "Dilshod",
-      "lastName": "Jumaev",
-      "middleName": "Nabijonavich",
-      "age": "20",
-      "position": "front",
-      "hireDate": "20.09.2024",
-      "salary": "3000",
-      "department": "IT",
-      "email": "jumaev7077@gmail.com",
-      "phone": "+992 926 80 7077",
-      "address": "12 microdistrict, House 28, Apartment 10"
-    },
-    {
-      "id": "aeff",
-      "firstName": "Dilshod",
-      "lastName": "Jumaev",
-      "middleName": "",
-      "age": "32",
-      "position": "23",
-      "hireDate": "2024-09-10",
-      "salary": "2323",
-      "department": "23",
-      "email": "jumaev7077@gmail.com",
-      "phone": "232",
-      "address": "12 microdistrict, House 28, Apartment 10"
     }
   ]
 }
