@@ -4,7 +4,6 @@ import { fetchRecords } from "../../services/api";
 import { Record } from "../../types/index";
 import { translations } from "../../translations";
 import {
-  NextUIProvider,
   Table,
   TableHeader,
   TableColumn,
@@ -50,7 +49,6 @@ const CustomTable: React.FC<TableProps> = ({ fields }) => {
   });
 
   return (
-    <NextUIProvider>
       <Table
         isHeaderSticky
         isStriped
@@ -89,7 +87,6 @@ const CustomTable: React.FC<TableProps> = ({ fields }) => {
           ))}
         </TableBody>
       </Table>
-    </NextUIProvider>
   );
 };
 
